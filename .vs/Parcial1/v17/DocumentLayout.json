@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\SistemaAlquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaAlquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\Vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stevendos1\\Desktop\\Parcial1\\EstadoVehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EstadoVehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaAlquiler.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\SistemaAlquiler.cs",
+              "RelativeDocumentMoniker": "SistemaAlquiler.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\SistemaAlquiler.cs",
+              "RelativeToolTip": "SistemaAlquiler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:49:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Reserva.cs",
+              "RelativeDocumentMoniker": "Reserva.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Reserva.cs",
+              "RelativeToolTip": "Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:48:28.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:48:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Camion.cs",
+              "RelativeDocumentMoniker": "Camion.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Camion.cs",
+              "RelativeToolTip": "Camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:47:54.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "Motocicleta.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Motocicleta.cs",
+              "RelativeToolTip": "Motocicleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:47:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Automovil.cs",
+              "RelativeDocumentMoniker": "Automovil.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Automovil.cs",
+              "RelativeToolTip": "Automovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:47:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:46:24.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\EstadoVehiculo.cs",
+              "RelativeToolTip": "EstadoVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:45:43.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\stevendos1\\Desktop\\Parcial1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAmwDUAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:44:14.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
